@@ -15,3 +15,11 @@ Once you run the code via the text editor, you will see a new tab under the tool
 ![Adding The Material](instruction_images/step2.PNG)
 
 As shown in my example, the Fruit tab is added to the bottom of the existing tabs on the very left side.
+## Final Touch
+As a final touch, I added light above my object. I set the strength to 5 units. So my final scene looks like this:
+
+![Final Scene](instruction_images/step3.PNG)
+## Final Render
+Rendering the scene, you can see the material applied to your object.
+
+![Final Render](instruction_images/step4.PNG)
