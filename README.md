@@ -12,3 +12,6 @@ To see the code work, you need to have your Node Editor open along with your Tex
 </ul>
 Once you run the code via the text editor, you will see a new tab under the tools tab called "Fruit". Navigate to that tab and click "Add rough skin". This will automatically add the material to your selected object and the nodes for that material.
 
+![Adding The Material](instruction_images/step2.PNG)
+
+As shown in my example, the Fruit tab is added to the bottom of the existing tabs on the very left side.
