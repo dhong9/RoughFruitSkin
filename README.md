@@ -22,4 +22,4 @@ As a final touch, I added light above my object. I set the strength to 5 units. 
 ## Final Render
 Rendering the scene, you can see the material applied to your object.
 
-![Final Render](instruction_images/finalRender.PNG)
+![Final Render](instruction_images/finalRender.png)
